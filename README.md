@@ -1,2 +1,2 @@
 # grpc-react
-gRPC on  Native
+gRPC on React Native
